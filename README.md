@@ -1,3 +1,8 @@
+Name SalesBoom an ERP solution 
+
+Project Link 
+https://salesboom-1114a.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
