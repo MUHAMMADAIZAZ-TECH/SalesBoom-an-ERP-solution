@@ -1,7 +1,18 @@
-Name SalesBoom an ERP solution 
+**Name SalesBoom an ERP solution **
 
-Project Link 
-https://salesboom-1114a.web.app/
+**Project Link **
+**https://salesboom-1114a.web.app/**
+**Login Credentials**
+admin crredentials
+m.aizaz.official17@gmail.com
+123456
+
+manager
+aizazaizaz255@gmail.com
+123456
+
+salescounter
+aizaznadeem174@gmail.com
 
 # Getting Started with Create React App
 
