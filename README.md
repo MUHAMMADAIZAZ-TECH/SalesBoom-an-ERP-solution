@@ -1,4 +1,4 @@
-**Name SalesBoom an ERP solution **
+**SalesBoom an ERP solution **
 
 **Project Link **
 **https://salesboom-1114a.web.app/**
