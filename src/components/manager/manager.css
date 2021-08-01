@@ -1,0 +1,18 @@
+.dashboard-container {
+  /* margin: 0; */
+  /* justify-content: center; */
+  /* padding: 10px 10px 0 10px; */
+  margin-top: 65px;
+  padding-top: 10px;
+  height: 88vh;
+  overflow: auto;
+  /* border: 1px solid black; */
+  width: inherit;
+  /* background-color: whitesmoke; */
+  /* background-color: cadetblue; */
+  /* position: fixed; */
+  /* display: grid;
+    grid-template-columns: repeat(4, minmax(auto, 1fr)); */
+  /* justify-items: space-between; */
+  /* fle */
+}
